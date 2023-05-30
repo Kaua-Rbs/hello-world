@@ -1,3 +1,3 @@
 # hello-world
-for familiarizing with the platform
-'some piece of code'
+for familiarizing with the platform  
+`some piece of code`
